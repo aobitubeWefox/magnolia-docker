@@ -1,3 +1,4 @@
+
 # About
 
 A blueprint project for creating a customized docker image for Magnolia CMS. Including helm-chart and pipeline for
